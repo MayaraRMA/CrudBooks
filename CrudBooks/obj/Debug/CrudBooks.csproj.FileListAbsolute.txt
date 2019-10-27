@@ -1,0 +1,10 @@
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\bin\Debug\CrudBooks.exe.config
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\bin\Debug\CrudBooks.exe
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\bin\Debug\CrudBooks.pdb
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\obj\Debug\CrudBooks.csprojAssemblyReference.cache
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\obj\Debug\CrudBooks.Form1.resources
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\obj\Debug\CrudBooks.Properties.Resources.resources
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\obj\Debug\CrudBooks.csproj.GenerateResource.cache
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\obj\Debug\CrudBooks.csproj.CoreCompileInputs.cache
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\obj\Debug\CrudBooks.exe
+C:\Users\mayar\source\repos\CrudBooks\CrudBooks\obj\Debug\CrudBooks.pdb
